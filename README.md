@@ -1,5 +1,5 @@
 # Murder Drones Fan Games
-This is a directory of Murder Drones fan games that helps users find games to play.
+This is a directory of Murder Drones fan games that helps users find games to play. This only includes games that are currently available to play.
 
 ## Whitelist
 Games that are considered safe to play.
