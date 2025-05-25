@@ -11,7 +11,7 @@ These games' source code is publicly available. Players and developers can freel
 |------|-----------|-----------|------|-----|
 | Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo |
-| Code Red | Bryson111 | Windows | Shooter | TO DO |
+| Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red |
 
 ### Audited Proprietary Games
 These games' source code isn't freely available, but have been inspected to be safe by our developers through our free auditing program.
