@@ -6,3 +6,5 @@ These games' source code is publicly available. Players and developers can freel
 
 | Game | Developer | Platforms | Genre |
 |------|-----------|-----------|------|
+| Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux | Platformer |
+| Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel |
