@@ -1,6 +1,9 @@
 # Murder Drones Fan Games
 This is a directory of Murder Drones fan games that helps users find games to play.
 
+## Whitelist
+Games that are considered safe to play
+
 ### Free and Open Source Games
 These games' source code is publicly available. Players and developers can freely inspect, modify, and redistribute it under the specified license.
 
@@ -10,13 +13,17 @@ These games' source code is publicly available. Players and developers can freel
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | TO DO |
 | Code Red | Bryson111 | Windows | Shooter | TO DO |
 
-## Audited Proprietary and Closed Source Games
+### Audited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot inspected, modified, or redistributed but have been inspected to be safe by our developers through our free auditing program.
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | TO DO |
-## Unaudited Proprietary and Closed Source Games
+
+## Greylist
+Games that aren't inspected and could potentially host malware or otherwise dangerous code
+
+### Unaudited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot be inspected, modified, or redistributed and haven't been inspected for safety by our developers.
 
 | Game | Developer | Platforms | Genre | Link |
