@@ -18,7 +18,7 @@ These games' source code isn't freely available, but have been inspected to be s
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
-| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | TO DO |
+| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters |
 
 ## Greylist
 Games that aren't inspected and could POTENTIALLY host malware or otherwise dangerous code.
