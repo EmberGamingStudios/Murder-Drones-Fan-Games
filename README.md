@@ -28,7 +28,7 @@ These games' source code isn't freely available and haven't been inspected for s
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
-| The Manor | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919?feed_last_id=%7B%22ver%22:%221%22,%22pos%22:%221740315049.016%22%7D |
+| The Manor | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 |
 | Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | TO DO |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | TO DO |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | TO DO |
