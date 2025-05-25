@@ -14,3 +14,7 @@ These games' source code isn't freely available and cannot inspected, modified, 
 
 ## Unaudited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot be inspected, modified, or redistributed and hasn't been inspected for safety by our developers.
+
+| Game | Developer | Platforms | Genre | Link |
+|------|-----------|-----------|------|-----|
+| Escape Copper 9 | Craftworks | Windows, macOS | First Person | TO DO |
