@@ -30,7 +30,7 @@ These games' source code isn't freely available and haven't been inspected for s
 |------|-----------|-----------|------|-----|
 | The Manor | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 |
 | Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 |
-| Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | TO DO |
+| Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | TO DO |
 | Murder Drones Virtual Training Off The Record | Crjonch | Windows, macOS, Linux | Platformer | TO DO |
 | Murder Drones Game | Neonthe | Windows, Android | Action | TO DO |
