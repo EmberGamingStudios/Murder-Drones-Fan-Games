@@ -34,3 +34,6 @@ These games' source code isn't freely available and cannot be inspected, modifie
 | Murder Drones Virtual Training Off The Record | Crjonch | Windows, macOS, Linux | Platformer | TO DO |
 | Murder Drones Game | Neonthe | Windows, Android | Action | TO DO |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | TO DO |
+
+## Blacklist
+Games that are confirmed to host malware or otherwise dangerous code.
