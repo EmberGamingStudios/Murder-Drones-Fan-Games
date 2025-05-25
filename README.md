@@ -37,3 +37,6 @@ These games' source code isn't freely available and cannot be inspected, modifie
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
+
+# Developers
+Got a game that needs to be added or inspected by us? Let us know and we'll happily assist.
