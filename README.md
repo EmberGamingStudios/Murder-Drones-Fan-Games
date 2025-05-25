@@ -13,6 +13,9 @@ These games' source code is publicly available. Players and developers can freel
 ## Audited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot inspected, modified, or redistributed but have been inspected to be safe by our developers through our free auditing program.
 
+| Game | Developer | Platforms | Genre | Link |
+|------|-----------|-----------|------|-----|
+| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | TO DO |
 ## Unaudited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot be inspected, modified, or redistributed and haven't been inspected for safety by our developers.
 
