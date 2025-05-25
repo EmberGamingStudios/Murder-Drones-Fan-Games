@@ -29,7 +29,7 @@ These games' source code isn't freely available and haven't been inspected for s
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
 | The Manor | ZzsarkStormbeard | Windows | RPG | TO DO |
-| Murder Drones First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | TO DO |
+| Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | TO DO |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | TO DO |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | TO DO |
 | Murder Drones Virtual Training Off The Record | Crjonch | Windows, macOS, Linux | Platformer | TO DO |
