@@ -33,7 +33,7 @@ These games' source code isn't freely available and haven't been inspected for s
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | https://rabbitbitgames.itch.io/murderdrones-headache |
 | Murder Drones Virtual Training Off The Record | Crjonch | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr |
-| Murder Drones Game | Neonthe | Windows, Android | Action | TO DO |
+| Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | TO DO |
 
 ## Blacklist
