@@ -9,5 +9,8 @@ These games' source code is publicly available. Players and developers can freel
 | Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | TO DO |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | TO DO |
 
-## Proprietary and Closed Source Games
-These games' source code isn't freely available and cannot inspected, modified, or redistributed.
+## Audited Proprietary and Closed Source Games
+These games' source code isn't freely available and cannot inspected, modified, or redistributed but has been inspected to be safe by our developers.
+
+## Unaudited Proprietary and Closed Source Games
+These games' source code isn't freely available and cannot be inspected, modified, or redistributed and hasn't been inspected for safety by our developers.
