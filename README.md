@@ -11,10 +11,10 @@ These games' source code is publicly available. Players and developers can freel
 | Code Red | Bryson111 | Windows | Shooter | TO DO |
 
 ## Audited Proprietary and Closed Source Games
-These games' source code isn't freely available and cannot inspected, modified, or redistributed but has been inspected to be safe by our developers.
+These games' source code isn't freely available and cannot inspected, modified, or redistributed but have been inspected to be safe by our developers through our free auditing program.
 
 ## Unaudited Proprietary and Closed Source Games
-These games' source code isn't freely available and cannot be inspected, modified, or redistributed and hasn't been inspected for safety by our developers.
+These games' source code isn't freely available and cannot be inspected, modified, or redistributed and haven't been inspected for safety by our developers.
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
