@@ -2,7 +2,7 @@
 This is a directory of Murder Drones fan games that helps users find games to play.
 
 ## Whitelist
-Games that are considered safe to play
+Games that are considered safe to play.
 
 ### Free and Open Source Games
 These games' source code is publicly available. Players and developers can freely inspect, modify, and redistribute it under the specified license.
@@ -21,7 +21,7 @@ These games' source code isn't freely available and cannot inspected, modified, 
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | TO DO |
 
 ## Greylist
-Games that aren't inspected and could potentially host malware or otherwise dangerous code
+Games that aren't inspected and could POTENTIALLY host malware or otherwise dangerous code.
 
 ### Unaudited Proprietary and Closed Source Games
 These games' source code isn't freely available and cannot be inspected, modified, or redistributed and haven't been inspected for safety by our developers.
