@@ -35,7 +35,7 @@ These games' source code isn't freely available and haven't been inspected for s
 | Murder Drones Virtual Training Off The Record | Crjonch | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr |
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | https://murderdronesav.itch.io/murder-drones-pixel-carnage |
-| Five Nights With Murder Drones | | Windows | | https://gamejolt.com/games/MurderDronesFNAFgame/862717 |
+| Five Nights With Murder Drones | Treyg0lniik | Windows | Survival | https://gamejolt.com/games/MurderDronesFNAFgame/862717 |
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
