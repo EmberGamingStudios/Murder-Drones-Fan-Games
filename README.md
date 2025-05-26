@@ -44,5 +44,9 @@ These games' source code isn't freely available and haven't been inspected for s
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
 
+| Game | Developer | Platforms | Genre | Link |
+|------|-----------|-----------|------|-----|
+| Amazon | Satan | All | E-Store | amazon.com |
+
 # Developers
 Got a game that needs to be added, inspected, or reclassified by us? Let us know and we'll happily assist.
