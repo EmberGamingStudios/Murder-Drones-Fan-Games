@@ -36,6 +36,7 @@ These games' source code isn't freely available and haven't been inspected for s
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | https://murderdronesav.itch.io/murder-drones-pixel-carnage |
 | Five Nights With Murder Drones | Treyg0lniik | Windows | Survival | https://gamejolt.com/games/MurderDronesFNAFgame/862717 |
+| Murder Drones Graveyard Shift | | Windows, Web | Survival | https://gamejolt.com/games/MurderdronexFNAFfangame/924561 |
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
