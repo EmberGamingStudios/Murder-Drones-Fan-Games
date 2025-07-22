@@ -4,22 +4,14 @@ This is a directory of Murder Drones fan games that helps users find games to pl
 ## Whitelist
 Games that are considered safe to play.
 
-### Open Source Games
-These games' source code is publicly available. Players and developers can freely inspect, modify, and redistribute it under the specified license.
-
 | Game | Developer | Platforms | Genre | Link | License |
 |------|-----------|-----------|------|-----|-------|
 | Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | MIT |
+| The Manor (Windows Edition) | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary |
+| The Manor (Unix Edition) | ZzsarkStormbeard, EmberGamingStudios | macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary with MIT components |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo | GNU AGPLv3 |
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
 | Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red | Unspecified |
-
-### Trusted Proprietary Games
-These games' source code isn't freely available, but have been inspected to be safe.
-
-| Game | Developer | Platforms | Genre | Link |
-|------|-----------|-----------|------|-----|
-| The Manor | ZzsarkStormbeard | Windows, macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 |
 
 ## Greylist
 Games that aren't inspected and could POTENTIALLY host malware or otherwise dangerous code.
