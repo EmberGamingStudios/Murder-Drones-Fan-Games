@@ -38,4 +38,4 @@ Games that are confirmed to host malware or otherwise dangerous code.
 | Amazon | Satan | All | E-Store | amazon.com |
 
 # Developers
-Got a game that needs to be added, inspected, or reclassified by us? Let us know and we'll happily assist.
+Got a game that needs to be added, inspected, edited, or reclassified by us? Let us know and we'll happily assist.
