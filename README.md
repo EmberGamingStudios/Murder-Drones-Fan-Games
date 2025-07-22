@@ -6,7 +6,7 @@ Games that are considered safe to play.
 
 | Game | Developer | Platforms | Genre | Link | License |
 |------|-----------|-----------|------|-----|-------|
-| Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | Unspecified |
+| Murder Drones Virtual Training |	Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | Unspecified |
 | The Manor (Windows Edition) | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary |
 | The Manor (Unix Edition) | ZzsarkStormbeard, EmberGamingStudios | macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary with MIT components |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo | GNU AGPLv3 |
