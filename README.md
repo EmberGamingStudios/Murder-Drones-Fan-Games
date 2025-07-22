@@ -38,7 +38,7 @@ Games that are confirmed to host malware or otherwise dangerous code.
 | Amazon | Satan | All | E-Store | amazon.com |
 
 # Developers
-Got a game that needs to be added, inspected, edited, or reclassified by us? Let us know and we'll happily assist.
+Got a game that needs to be added, inspected, edited, or reclassified by us? Let us know and we'll happily assist. You can contact by messaging u/EmberGamingStudios on Reddit.
 
 ## How Can I get my game on the Whitelist?
 To get on the Whitelist, you must show that your game is trustable. This can be by collaborating with us, having your game open source, or having the source code available to us. This allows us to physically see for ourselves that the game is safe. 
