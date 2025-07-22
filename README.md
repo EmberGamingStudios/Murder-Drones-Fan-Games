@@ -7,12 +7,12 @@ Games that are considered safe to play.
 ### Open Source Games
 These games' source code is publicly available. Players and developers can freely inspect, modify, and redistribute it under the specified license.
 
-| Game | Developer | Platforms | Genre | Link |
-|------|-----------|-----------|------|-----|
-| Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt |
-| Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo |
-| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters |
-| Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red |
+| Game | Developer | Platforms | Genre | Link | License |
+|------|-----------|-----------|------|-----|-------|
+| Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | MIT |
+| Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo | GNU AGPLv3 |
+| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
+| Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red | Unspecified |
 
 ### Trusted Proprietary Games
 These games' source code isn't freely available, but have been inspected to be safe.
