@@ -11,7 +11,6 @@ These games' source code is publicly available. Players and developers can freel
 |------|-----------|-----------|------|-----|
 | Murder Drones Virtual Training | Autopawn | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo |
-|------|-----------|-----------|------|-----|
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters |
 | Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red |
 
