@@ -16,9 +16,6 @@ Games that are considered safe to play.
 ## Greylist
 Games that aren't inspected and could POTENTIALLY host malware or otherwise dangerous code.
 
-### Unaudited Proprietary Games
-These games' source code isn't freely available and haven't been inspected for safety by our developers.
-
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
 | Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 |
