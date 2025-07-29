@@ -37,7 +37,7 @@ Games that aren't inspected.
 | My Pet Cyn | Hugomcnally| Windows, macOS, Linux, Android, Web | Sim | https://hugomcnally.itch.io/my-pet-cyn |
 | N Tower | Jaxon! | Web | Tower Defense | https://jaxrai-09.itch.io/n-tower-menu |
 | Murder Sprunki | Cheeseburger | Web | Rhythm | https://cheeseburger-89.itch.io/incredibox-murder-sprunki |
-| Murder Drones Merry Christmas | | Android | Visual Novel | 
+| Murder Drones Merry Christmas | Icedev6666 | Android | Visual Novel | https://icedev6666.itch.io/murder-drones-merry-christmas |
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
 
