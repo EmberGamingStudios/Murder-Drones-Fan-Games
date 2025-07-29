@@ -20,6 +20,7 @@ Games that aren't inspected.
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
+| The Singularity Awakens | Swag Swag Senate | Windows | Shooter | https://swag-swag-senate.itch.io/the-singularity-awakens |
 | Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
 | Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame |
