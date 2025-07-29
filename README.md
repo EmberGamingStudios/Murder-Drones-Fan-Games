@@ -32,6 +32,8 @@ Games that aren't inspected.
 | Murder Drones Game | KendrickHosleyforeal | Windows | Platformer | https://gamejolt.com/games/Crap/772502 |
 | Murder Drones Horror | PatoSegura_38c3 | Windows, Web | Survival | https://gamejolt.com/games/MURDERDRONESHORROR/908574 |
 | Purger Drones | Neko Dev | Android | Action | https://neko-dev-0w0.itch.io/purger-drones |
+| My Pet Uzi |
+| My Pet Cyn |
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
