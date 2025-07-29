@@ -31,7 +31,7 @@ Games that aren't inspected.
 | Murder Drones Game | MihailKozlov | Windows | Platformer | https://gamejolt.com/games/MDgame/899748 |
 | Murder Drones Game | KendrickHosleyforeal | Windows | Platformer | https://gamejolt.com/games/Crap/772502 |
 | Murder Drones Horror | PatoSegura_38c3 | Windows, Web | Survival | https://gamejolt.com/games/MURDERDRONESHORROR/908574 |
-| Purger Drones | Neko Dev 0w0 | Android | Action | https://neko-dev-0w0.itch.io/purger-drones |
+| Purger Drones | Neko Dev | Android | Action | https://neko-dev-0w0.itch.io/purger-drones |
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
