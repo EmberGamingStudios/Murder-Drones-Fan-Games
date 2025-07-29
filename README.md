@@ -20,7 +20,7 @@ Games that aren't inspected.
 |------|-----------|-----------|------|-----|
 | Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
-| Murder Drones The Game | xenogamer | Web | https://xenogamer.itch.io/murder-drones-the-videogame |
+| Murder Drones The Game | xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | https://rabbitbitgames.itch.io/murderdrones-headache |
 | Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr |
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
