@@ -34,7 +34,7 @@ Games that aren't inspected.
 | Murder Drones Horror | PatoSegura_38c3 | Windows, Web | Survival | https://gamejolt.com/games/MURDERDRONESHORROR/908574 |
 | Purger Drones | Neko Dev | Android | Action | https://neko-dev-0w0.itch.io/purger-drones |
 | My Pet Uzi | Hugomcnally | Windows, Android | Sim | https://hugomcnally.itch.io/my-pet-uzi |
-| My Pet Cyn | Hugomcnally | Sim | Windows, macOS, Linux, Android, Web | https://hugomcnally.itch.io/my-pet-cyn |
+| My Pet Cyn | Hugomcnally| Windows, macOS, Linux, Android, Web | Sim | https://hugomcnally.itch.io/my-pet-cyn |
 | N Tower | Jaxon! | Tower Defense | Web | https://jaxrai-09.itch.io/n-tower-menu |
 | Murder Sprunki | Cheeseburger | Web | Rhythm | https://cheeseburger-89.itch.io/incredibox-murder-sprunki |
 ## Blacklist
