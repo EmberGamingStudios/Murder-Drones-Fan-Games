@@ -10,7 +10,7 @@ Games that are considered safe to play.
 | The Manor (Windows Edition) | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary |
 | The Manor (Unix Edition) | ZzsarkStormbeard, EmberGamingStudios | macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary with MIT components |
 | Murder Drones Virtual Training 2: Sand and Steel | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt2 | Unspecified |
-| Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr |
+| Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr | Unspecified |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 |
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
 | Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red | Unspecified |
