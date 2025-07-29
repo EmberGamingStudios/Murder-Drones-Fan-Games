@@ -34,7 +34,7 @@ Games that aren't inspected.
 | Purger Drones | Neko Dev | Android | Action | https://neko-dev-0w0.itch.io/purger-drones |
 | My Pet Uzi | Hugomcnally | Windows, Android | Sim | https://hugomcnally.itch.io/my-pet-uzi |
 | My Pet Cyn | Hugomcnally | Sim | Windows, macOS, Linux, Android, Web | https://hugomcnally.itch.io/my-pet-cyn |
-| N Tower | Jaxon! | | Web | https://jaxrai-09.itch.io/n-tower-menu |
+| N Tower | Jaxon! | Tower Defense | Web | https://jaxrai-09.itch.io/n-tower-menu |
 
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
