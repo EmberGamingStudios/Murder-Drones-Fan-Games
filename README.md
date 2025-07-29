@@ -35,7 +35,7 @@ Games that aren't inspected.
 | My Pet Uzi | Hugomcnally | Windows, Android | Sim | https://hugomcnally.itch.io/my-pet-uzi |
 | My Pet Cyn | Hugomcnally | Sim | Windows, macOS, Linux, Android, Web | https://hugomcnally.itch.io/my-pet-cyn |
 | N Tower | Jaxon! | Tower Defense | Web | https://jaxrai-09.itch.io/n-tower-menu |
-| Murder Sprunki | Cheeseburger 89 | Web | Rythm | https://cheeseburger-89.itch.io/incredibox-murder-sprunki |
+| Murder Sprunki | Cheeseburger | Web | Rhythm | https://cheeseburger-89.itch.io/incredibox-murder-sprunki |
 ## Blacklist
 Games that are confirmed to host malware or otherwise dangerous code.
 
