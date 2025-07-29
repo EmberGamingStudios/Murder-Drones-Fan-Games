@@ -14,7 +14,7 @@ Games that are considered safe to play.
 | Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red | Unspecified |
 
 ## Greylist
-Games that aren't inspected and could POTENTIALLY host malware or otherwise dangerous code.
+Games that aren't inspected.
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
