@@ -14,7 +14,6 @@ Games that are considered safe to play.
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 |
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
 | Worker Murdering Simulator | RomeoMan | Windows | | | |
-| Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red | Unspecified |
 
 ## Greylist
 Games that aren't inspected.
@@ -28,6 +27,7 @@ Games that aren't inspected.
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | https://rabbitbitgames.itch.io/murderdrones-headache |
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | https://murderdronesav.itch.io/murder-drones-pixel-carnage |
+| Code Red | Bryson111 | Windows | Shooter | https://bryson111.itch.io/murder-drones-code-red |
 | Five Nights With Murder Drones | Treyg0lniik | Windows | Survival | https://gamejolt.com/games/MurderDronesFNAFgame/862717 |
 | Murder Drones Graveyard Shift | Abscoder2007 | Windows, Web | Survival | https://gamejolt.com/games/MurderdronexFNAFfangame/924561 |
 | Murder Drones Game | MihailKozlov | Windows | Platformer | https://gamejolt.com/games/MDgame/899748 |
