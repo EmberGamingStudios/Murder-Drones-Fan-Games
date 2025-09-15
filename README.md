@@ -14,6 +14,10 @@ Games that are considered safe to play.
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 |
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
 | Worker Murdering Simulator | RomeoMan | Windows | Shooter, Simulation | https://gamejolt.com/games/WMS/901808 | Unspecified |
+| Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 | Unspecified |
+| Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame | Unspecified |
+
+
 
 ## Greylist
 Games that aren't inspected.
@@ -21,9 +25,7 @@ Games that aren't inspected.
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
 | The Singularity Awakens | Swag Swag Senate | Windows | Shooter | https://swag-swag-senate.itch.io/the-singularity-awakens |
-| Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
-| Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | https://rabbitbitgames.itch.io/murderdrones-headache |
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
 | Murder Drones Pixel Carnage | Murderdronesav | Web | Action | https://murderdronesav.itch.io/murder-drones-pixel-carnage |
