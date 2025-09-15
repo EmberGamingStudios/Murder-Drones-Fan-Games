@@ -13,7 +13,7 @@ Games that are considered safe to play.
 | Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr | Unspecified |
 | Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 |
 | Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
-| Worker Murdering Simulator | RomeoMan | Windows | | | |
+| Worker Murdering Simulator | RomeoMan | Windows | Shooter, Simulation | https://gamejolt.com/games/WMS/901808 | Unspecified |
 
 ## Greylist
 Games that aren't inspected.
