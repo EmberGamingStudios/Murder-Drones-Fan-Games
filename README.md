@@ -4,18 +4,18 @@ This is a directory of Murder Drones fan games that helps users find games to pl
 ## Whitelist
 Games that are considered safe to play.
 
-| Game | Developer | Platforms | Genre | Link | License |
-|------|-----------|-----------|------|-----|-------|
-| Murder Drones Virtual Training |	Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | Unspecified |
-| The Manor (Windows Edition) | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary |
-| The Manor (Unix Edition) | ZzsarkStormbeard, EmberGamingStudios | macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary with MIT components |
-| Murder Drones Virtual Training 2: Sand and Steel | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt2 | Unspecified |
-| Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr | Unspecified |
-| Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 |
-| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 |
-| Worker Murdering Simulator | RomeoMan | Windows | Shooter, Simulation | https://gamejolt.com/games/WMS/901808 | Unspecified |
-| Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 | Unspecified |
-| Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame | Unspecified |
+| Game | Developer | Platforms | Genre | Link | License | Engine |
+|------|-----------|-----------|------|-----|-------|-------|
+| Murder Drones Virtual Training |	Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt | Unspecified | PICO-8 |
+| The Manor (Windows Edition) | ZzsarkStormbeard | Windows | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary | RPG Maker MV |
+| The Manor (Unix Edition) | ZzsarkStormbeard, EmberGamingStudios | macOS, Linux | RPG | https://gamejolt.com/games/TheManorMD/963919 | Proprietary with MIT components | RPG Maker MV |
+| Murder Drones Virtual Training 2: Sand and Steel | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux, Web | Platformer | https://autopawn.itch.io/mdvt2 | Unspecified | PICO-8 |
+| Murder Drones Virtual Training Off The Record | Autopawn, Crjönch, Remi Mixer, Miszuk | Windows, macOS, Linux | Platformer | https://crjonch.itch.io/mdvt-otr | Unspecified | PICO-8 |
+| Murder Drones Sudo | EmberGamingStudios | Windows, macOS, Linux, Android, iOS, Web | Visual Novel | https://embergamingstudios.itch.io/murder-drones-sudo, https://gamejolt.com/games/murder-drones-sudo/992964 | GNU AGPLv3 | Ren'Py |
+| Murder Drones Lost Chapters | NewAgent3 | Windows, macOS, Linux, Android, Web | Visual Novel | https://newagent3.itch.io/murder-drones-lost-chapters | GNU GPLv3 | Ren'Py |
+| Worker Murdering Simulator | RomeoMan | Windows | Shooter, Simulation | https://gamejolt.com/games/WMS/901808 | Unspecified | Unity |
+| Murder Drones The First Encounter | ALIansEN | Windows, Linux, Android | Text Adventure | https://gamejolt.com/games/md-tfe/939103 | Unspecified | Unity |
+| Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame | Unspecified | Godot |
 
 
 
