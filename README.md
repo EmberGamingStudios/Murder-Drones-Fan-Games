@@ -2,7 +2,7 @@
 This is a directory of Murder Drones fan games that helps users find games to play. This only includes standalone games that are currently available to play.
 
 ## Whitelist
-Games by developers who are members of the MD Game Dev Group.
+Games made by developers who are members of the MD Game Dev Group.
 
 | Game | Developer | Platforms | Genre | Link | Engine | License |
 |------|-----------|-----------|------|-----|-------|-------|
