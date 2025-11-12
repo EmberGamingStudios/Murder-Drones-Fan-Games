@@ -25,7 +25,7 @@ Games that aren't made by members of the MD Game Dev Group.
 
 | Game | Developer | Platforms | Genre | Link |
 |------|-----------|-----------|------|-----|
-| The Singularity Awakens | Swag Swag Senate | Windows | Shooter | https://swag-swag-senate.itch.io/the-singularity-awakens |
+| The Singularity Awakens | Swag Swag Senate | Windows | Shooter | https://swag-swag-senate.itch.io/the-singularity-awakens, https://gamejolt.com/games/270734200879/898703 |
 | Escape Copper 9 | Craftworks | Windows, macOS | Puzzle Adventure | https://craftworks.itch.io/murder-drones-game |
 | Murder Drones Headache | RabbitBitGames | Windows, Android | Platformer | https://rabbitbitgames.itch.io/murderdrones-headache |
 | Murder Drones Game | Neonthe | Windows, Android | Action | https://neonthe.itch.io/murder-drones-game |
