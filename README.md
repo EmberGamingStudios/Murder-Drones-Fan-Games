@@ -18,6 +18,7 @@ Games made by developers who are members of the MD Game Dev Group.
 | Murder Drones The Videogame | Xenogamer | Web | Action | https://xenogamer.itch.io/murder-drones-the-videogame | Godot | Unspecified |
 | Murder Drones Overtime | Tootsierollxd | Windows | Shooter | https://tootsierollxd.itch.io/md-overtime | Unity | Unspecified |
 | Murder Drones Turn To Murder | Error-Unit | Web | Fighting | https://error-unit.itch.io/murder-drones-turn-to-murder | Scratch | Unspecified |
+| Murder Drones Mass Disassembly | Krypton57 | | Shooter | https://www.doomworld.com/forum/topic/154303-mass-disassembly-%E2%80%94-murder-drones-in-doom-updated-12-1-25/ | Doom | Unspecified |
 
 
 ## Greylist
