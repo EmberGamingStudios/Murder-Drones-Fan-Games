@@ -1,3 +1,5 @@
+This list has been replaced by https://mdfanprojects.org/wiki/Games and is no longer maintained. 
+
 # Murder Drones Fan Games
 This is a directory of Murder Drones fan games that helps users find games to play. This only includes standalone games that are currently available to play.
 
